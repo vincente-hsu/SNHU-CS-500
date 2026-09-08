@@ -1,0 +1,1 @@
+In this repository, we have the journals for each week, and the overall project zip. The financial_literacy file and functions file represent the actual Python code used to visualize one's finances. They may be downloaded and used on the most common type of financial files, such as csvs and JSONs. Lastly, there is the calculator file, which runs the basic arthimetic operations.
